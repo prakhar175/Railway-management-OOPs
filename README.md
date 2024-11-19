@@ -53,7 +53,7 @@ To run this project, you need:
 ## 📝 Notes
 
 - Maximum booking limit is **6 passengers per ticket** same as IRCTC.
-- All database operations use plain text CSV files.
+- All database operations use text CSV files.
 
 ---
 
